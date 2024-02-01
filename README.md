@@ -1,3 +1,3 @@
-# Ingeniería-Gráfica-UGR
+# Graphic-Engineering-UGR
 
-Creación de escena 3D haciendo uso de librerías OpenGL en C++ que simula un avión en una pista de aterrizaje.
+Creation of a 3D scene using OpenGL libraries in C++ that simulates an airplane on a runway.
